@@ -5,7 +5,9 @@ This basic application shows a business layer project along with relevnat busine
 
 Identifying Classes from Requirements deliver by subject matter experts
 
-Staring with the Nouns, Abstraction and encapsulation
+ - Staring with the Nouns
+ - Abstraction
+ - Encapsulation
 
 Building Entity Clasees
 
@@ -14,9 +16,9 @@ Building Entity Clasees
 
 Building Entity Classes via methods
 
- -Running tests
- -Constructor chaining
- -Sepeartion of Concerns
+ - Running tests
+ - Constructor chaining
+ - Sepeartion of Concerns
 
 Establishing Relationships
 
