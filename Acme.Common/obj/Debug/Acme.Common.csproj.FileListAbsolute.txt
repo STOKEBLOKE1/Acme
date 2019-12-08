@@ -1,0 +1,5 @@
+C:\Users\theb0\OneDrive\Desktop\object-orientated-programming-fundamentals\10\demos\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\theb0\OneDrive\Desktop\object-orientated-programming-fundamentals\10\demos\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\theb0\OneDrive\Desktop\object-orientated-programming-fundamentals\10\demos\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\theb0\OneDrive\Desktop\object-orientated-programming-fundamentals\10\demos\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\theb0\OneDrive\Desktop\object-orientated-programming-fundamentals\10\demos\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
