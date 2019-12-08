@@ -1,7 +1,7 @@
 # Acme
  OOP progamming fundamentals C#
 
-This basic application shows a business layer project along with relevnat business layer test, a test project and logging methods with polymorphism via inheritance.
+This basic application shows a business layer project along with relevant business layer tests, a test project and logging methods with polymorphism via inheritance. We use some custom classes like Customer.cs, Product.cs and Address.cs, we also have respository classes that later on store the address, products and customers and create save and retrive methods along with logging with the interface ILoggable.
 
 Identifying Classes from Requirements deliver by subject matter experts
 
